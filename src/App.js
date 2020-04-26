@@ -7,7 +7,7 @@ import MessagesForm from './components/MessagesForm'
 import Navigation from './components/Navbar';
 
 function App() {
-  return (
+  return ( 
     <Router>
       <Navigation />
       <div className="container p-4">
